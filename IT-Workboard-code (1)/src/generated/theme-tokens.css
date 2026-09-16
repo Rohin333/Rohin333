@@ -1,0 +1,314 @@
+/* Orbitron - Futuristic Display Font */
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/orbitron/v35/yMJRMIlzdpvBhQQL_Qq7dy0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* Rajdhani - Condensed UI Font */
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pasEfOreec.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rajdhani/v17/LDIxapCSOBg7S-QT7p4HM-Y.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pb0EPOreec.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pbYF_Oreec.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Rajdhani';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/rajdhani/v17/LDI2apCSOBg7S-QT7pa8FvOreec.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+@reference "../index.css";
+
+:root {
+  --radius: 0.5rem;
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --font-heading: 'Orbitron', system-ui, sans-serif;
+  --font-body: 'Rajdhani', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --background: 222 33% 6%;
+  --foreground: 215 20% 92%;
+  --card: 222 32% 10%;
+  --card-foreground: 215 20% 92%;
+  --popover: 222 28% 12%;
+  --popover-foreground: 215 20% 92%;
+  --primary: 183 100% 50%;
+  --primary-foreground: 222 33% 6%;
+  --secondary: 222 25% 14%;
+  --secondary-foreground: 215 20% 70%;
+  --muted: 222 25% 12%;
+  --muted-foreground: 215 16% 58%;
+  --accent: 208 99% 65%;
+  --accent-foreground: 222 33% 6%;
+  --destructive: 0 72% 51%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 222 18% 16%;
+  --input: 222 18% 18%;
+  --ring: 183 100% 50%;
+  --chart-1: 183 100% 50%;
+  --chart-2: 208 99% 65%;
+  --chart-3: 155 72% 45%;
+  --chart-4: 270 60% 58%;
+  --chart-5: 340 65% 55%;
+  --sidebar: 222 33% 5%;
+  --sidebar-background: 222 33% 5%;
+  --sidebar-foreground: 215 20% 90%;
+  --sidebar-primary: 183 100% 50%;
+  --sidebar-primary-foreground: 222 33% 6%;
+  --sidebar-accent: 222 25% 14%;
+  --sidebar-accent-foreground: 215 20% 90%;
+  --sidebar-border: 222 18% 16%;
+  --sidebar-ring: 183 100% 50%;
+  --prog-accent: 120 80% 50%;
+  --prog-border: 90 20% 20%;
+  --badge-active: 142 72% 45%;
+  --badge-critical: 0 72% 51%;
+  --badge-pending: 45 90% 50%;
+}
+
+.dark {
+  --background: 222 33% 6%;
+  --foreground: 215 20% 92%;
+  --card: 222 32% 10%;
+  --card-foreground: 215 20% 92%;
+  --popover: 222 28% 12%;
+  --popover-foreground: 215 20% 92%;
+  --primary: 183 100% 50%;
+  --primary-foreground: 222 33% 6%;
+  --secondary: 222 25% 14%;
+  --secondary-foreground: 215 20% 70%;
+  --muted: 222 25% 12%;
+  --muted-foreground: 215 16% 58%;
+  --accent: 208 99% 65%;
+  --accent-foreground: 222 33% 6%;
+  --destructive: 0 72% 51%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 222 18% 16%;
+  --input: 222 18% 18%;
+  --ring: 183 100% 50%;
+  --chart-1: 183 100% 50%;
+  --chart-2: 208 99% 65%;
+  --chart-3: 155 72% 45%;
+  --chart-4: 270 60% 58%;
+  --chart-5: 340 65% 55%;
+  --sidebar: 222 33% 5%;
+  --sidebar-background: 222 33% 5%;
+  --sidebar-foreground: 215 20% 90%;
+  --sidebar-primary: 183 100% 50%;
+  --sidebar-primary-foreground: 222 33% 6%;
+  --sidebar-accent: 222 25% 14%;
+  --sidebar-accent-foreground: 215 20% 90%;
+  --sidebar-border: 222 18% 16%;
+  --sidebar-ring: 183 100% 50%;
+}
+
+body { font-family: var(--font-body); font-size: 15px; font-weight: 400; letter-spacing: 0.02em; line-height: 1.5; }
+h1, h2, h3, h4, h5, h6 { font-family: var(--font-heading); font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+
+/* Core surfaces */
+.glass-surface {
+  background: hsl(var(--card) / 0.7);
+  backdrop-filter: blur(12px);
+  border: 1px solid hsl(var(--border));
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.37), inset 0 1px 0 rgba(255,255,255,0.08);
+}
+.canvas-gradient {
+  background: radial-gradient(ellipse at 50% 40%, hsl(222 28% 11%) 0%, hsl(var(--background)) 70%);
+}
+
+/* Typography utilities */
+.mono-label {
+  font-family: var(--font-mono); font-size: 10px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 1.5px; color: hsl(var(--muted-foreground));
+}
+.metric-value {
+  font-family: var(--font-heading); font-weight: 900; font-size: 2.5rem;
+  color: hsl(var(--primary)); text-shadow: 0 0 12px hsl(var(--primary) / 0.4);
+  letter-spacing: 0.02em;
+}
+
+/* Tab navigation */
+.cyber-tab {
+  font-family: var(--font-body) !important; font-size: 13px !important; font-weight: 600 !important;
+  text-transform: uppercase; letter-spacing: 1.5px;
+  background: hsl(var(--muted) / 0.3) !important; border: 1px solid hsl(var(--border));
+  border-radius: 8px; padding: 10px 20px; transition: all 0.3s ease; white-space: nowrap;
+}
+.cyber-tab:hover {
+  background: hsl(var(--muted) / 0.6) !important; border-color: hsl(var(--accent));
+}
+.cyber-tab[data-state=active] {
+  background: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--accent))) !important;
+  color: hsl(var(--primary-foreground)) !important; border-color: transparent !important;
+  box-shadow: 0 0 15px hsl(var(--primary) / 0.4);
+}
+
+/* Header gems */
+.header-gem {
+  width: 36px; height: 36px; transform: rotate(45deg); border-radius: 4px; flex-shrink: 0;
+}
+.header-gem--left {
+  background: linear-gradient(135deg, hsl(var(--prog-accent)), hsl(var(--prog-accent) / 0.3));
+  box-shadow: 0 0 24px hsl(var(--prog-accent) / 0.35);
+}
+.header-gem--right {
+  background: linear-gradient(135deg, hsl(var(--destructive)), hsl(var(--destructive) / 0.4));
+  box-shadow: 0 0 24px hsl(var(--destructive) / 0.35);
+}
+
+/* KPI cards */
+.kpi-card {
+  background: hsl(var(--card) / 0.6); backdrop-filter: blur(12px);
+  border: 1px solid hsl(var(--prog-border)); border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.3), inset 0 1px 0 rgba(255,255,255,0.05);
+}
+.kpi-number {
+  font-family: var(--font-heading); font-weight: 900;
+  color: hsl(var(--prog-accent)); text-shadow: 0 0 14px hsl(var(--prog-accent) / 0.35);
+  letter-spacing: 0.02em;
+}
+.kpi-icon { color: hsl(var(--prog-accent) / 0.18); }
+
+/* Programme cards */
+.prog-card {
+  background: hsl(var(--card) / 0.75); backdrop-filter: blur(12px);
+  border: 1px solid hsl(var(--prog-border)); border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.35), inset 0 1px 0 rgba(255,255,255,0.04);
+  position: relative; overflow: hidden;
+}
+.prog-card::before {
+  content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+  background: linear-gradient(to bottom, hsl(var(--prog-accent)), hsl(var(--prog-accent) / 0.2));
+}
+.prog-value {
+  font-family: var(--font-heading); font-weight: 900;
+  color: hsl(var(--prog-accent)); text-shadow: 0 0 10px hsl(var(--prog-accent) / 0.25);
+  letter-spacing: 0.02em;
+}
+.prog-bar { height: 4px; background: hsl(var(--muted)); border-radius: 2px; overflow: hidden; }
+.prog-bar-fill {
+  height: 100%; border-radius: 2px; transition: width 0.8s ease;
+  background: linear-gradient(90deg, hsl(var(--prog-accent) / 0.7), hsl(var(--prog-accent)));
+}
+
+/* Status badges */
+.badge-active {
+  background: hsl(var(--badge-active) / 0.15); color: hsl(var(--badge-active));
+  border: 1px solid hsl(var(--badge-active) / 0.3);
+}
+.badge-critical {
+  background: hsl(var(--badge-critical) / 0.15); color: hsl(var(--badge-critical));
+  border: 1px solid hsl(var(--badge-critical) / 0.3);
+}
+.badge-pending {
+  background: hsl(var(--badge-pending) / 0.15); color: hsl(var(--badge-pending));
+  border: 1px solid hsl(var(--badge-pending) / 0.3);
+}
+
+/* Data vault section */
+.data-vault {
+  position: relative; margin-top: 3rem;
+  padding: 2rem 0;
+}
+.data-vault::before {
+  content: ''; position: absolute; left: 0; right: 0; top: 0; height: 2px;
+  background: linear-gradient(90deg, transparent, hsl(var(--prog-accent) / 0.4) 20%, hsl(var(--prog-accent) / 0.4) 80%, transparent);
+}
+.data-vault-header {
+  display: flex; align-items: center; justify-content: center; gap: 1rem; margin-bottom: 2rem;
+}
+.data-vault-corner {
+  width: 8px; height: 8px; border: 2px solid hsl(var(--prog-accent) / 0.5); position: relative;
+}
+.data-vault-corner::before,
+.data-vault-corner::after {
+  content: ''; position: absolute; background: hsl(var(--prog-accent) / 0.3);
+}
+.data-vault-corner::before { width: 20px; height: 2px; left: 8px; top: 3px; }
+.data-vault-corner::after { width: 2px; height: 20px; left: 3px; top: 8px; }
+.data-vault-title {
+  font-family: var(--font-heading); font-size: 14px; font-weight: 700;
+  letter-spacing: 0.2em; text-transform: uppercase;
+  color: hsl(var(--prog-accent)); text-shadow: 0 0 10px hsl(var(--prog-accent) / 0.3);
+}
+
+/* Data table frame */
+.data-frame {
+  position: relative;
+  padding: 1px;
+  background: linear-gradient(135deg, hsl(var(--prog-accent) / 0.2), transparent 50%, hsl(var(--primary) / 0.2));
+  border-radius: 14px;
+}
+.data-frame-inner {
+  background: hsl(var(--background)); border-radius: 13px; overflow: hidden;
+}
